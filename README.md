@@ -341,7 +341,7 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Asif Ali** - [https://github.com/asif-code/](https://github.com/asif-code/)
 
 ## Status
 
